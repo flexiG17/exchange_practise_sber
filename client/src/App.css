@@ -1,0 +1,10 @@
+#root {
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.container {
+  padding-inline: 10rem;
+  padding-block: 5rem;
+  overflow: hidden;
+}
